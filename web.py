@@ -31,6 +31,6 @@ st.text_input(label="enter", placeholder="Enter a new todo:",
 
 print("Hello")
 
-st.session_state
+#st.session_state
 
 
